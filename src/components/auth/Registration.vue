@@ -5,10 +5,9 @@
                 h1.ui-title-1 Reg
 </template>
 
-
 <script>
 export default {
-  data() {
+  data () {
     return {
 
     }
@@ -17,5 +16,4 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-
 </style>
